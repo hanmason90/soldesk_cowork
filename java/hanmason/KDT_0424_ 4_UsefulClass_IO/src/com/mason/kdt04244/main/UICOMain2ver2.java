@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class UICOMain2_ver2 {
+public class UICOMain2ver2 {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 
